@@ -1,0 +1,7 @@
+C:\Users\allantang\Source\ProductHuntSlack\ProductHuntSlack\Phunt.SlackLibrary\bin\Debug\Phunt.SlackLibrary.dll
+C:\Users\allantang\Source\ProductHuntSlack\ProductHuntSlack\Phunt.SlackLibrary\bin\Debug\Phunt.SlackLibrary.pdb
+C:\Users\allantang\Source\ProductHuntSlack\ProductHuntSlack\Phunt.SlackLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\allantang\Source\ProductHuntSlack\ProductHuntSlack\Phunt.SlackLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\allantang\Source\ProductHuntSlack\ProductHuntSlack\Phunt.SlackLibrary\obj\Debug\Phunt.SlackLibrary.dll
+C:\Users\allantang\Source\ProductHuntSlack\ProductHuntSlack\Phunt.SlackLibrary\obj\Debug\Phunt.SlackLibrary.pdb
+C:\Users\allantang\Source\ProductHuntSlack\ProductHuntSlack\Phunt.SlackLibrary\obj\Debug\Phunt.SlackLibrary.csprojResolveAssemblyReference.cache

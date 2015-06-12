@@ -1,0 +1,6 @@
+C:\Users\allantang\Source\ProductHuntSlack\ProductHuntSlack\Phunt.Api\bin\Release\Phunt.Api.dll
+C:\Users\allantang\Source\ProductHuntSlack\ProductHuntSlack\Phunt.Api\bin\Release\Phunt.Api.pdb
+C:\Users\allantang\Source\ProductHuntSlack\ProductHuntSlack\Phunt.Api\bin\Release\Newtonsoft.Json.dll
+C:\Users\allantang\Source\ProductHuntSlack\ProductHuntSlack\Phunt.Api\bin\Release\Newtonsoft.Json.xml
+C:\Users\allantang\Source\ProductHuntSlack\ProductHuntSlack\Phunt.Api\obj\Release\Phunt.Api.dll
+C:\Users\allantang\Source\ProductHuntSlack\ProductHuntSlack\Phunt.Api\obj\Release\Phunt.Api.pdb

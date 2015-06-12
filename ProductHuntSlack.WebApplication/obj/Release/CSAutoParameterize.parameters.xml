@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="AzureWebJobsStorage-Web.config Connection String" description="AzureWebJobsStorage Connection String used in web.config by the application to access the database." defaultValue="DefaultEndpointsProtocol=https;AccountName=producthuntslackstorage;AccountKey=f5cTv8otVx9Hymq0oMDxrwRxS33+wCe4c+gk7VbnuKNYH+sAkXTqxTP0DJwR5pZGY/Abfs7lohfnyEOOYng4ew==" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\allantang\\Source\\ProductHuntSlack\\ProductHuntSlack\\ProductHuntSlack\.WebApplication\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='AzureWebJobsStorage']/@connectionString" />
+  </parameter>
+  <parameter name="PhuntSlackFeedEntities-Web.config Connection String" description="PhuntSlackFeedEntities Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/Data.PhuntSlackFeedModel.csdl|res://*/Data.PhuntSlackFeedModel.ssdl|res://*/Data.PhuntSlackFeedModel.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=ALLANTANGDB49;initial catalog=PhuntSlackFeed;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\allantang\\Source\\ProductHuntSlack\\ProductHuntSlack\\ProductHuntSlack\.WebApplication\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='PhuntSlackFeedEntities']/@connectionString" />
+  </parameter>
+</parameters>

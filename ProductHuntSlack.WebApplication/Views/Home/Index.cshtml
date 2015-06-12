@@ -1,0 +1,83 @@
+﻿@model ProductHuntSlack.WebApplication.Models.WebhookFormModel
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="row">
+    <div class="col-md-12">
+        <div class="panel panel-primary">
+            <div class="panel-heading">
+                <h3 class="panel-title" id="panel-title">
+                    Join Product Hunt Slack Notification
+                </h3>
+            </div>
+            <div class="panel-body">
+                Hello!
+                <p>
+                    <ul>
+                        <li>
+                            Do you <a href="https://www.producthunt.com" target="_blank">Product Hunt</a>?
+                        </li>
+                        <li>
+                            Do you use <a href="https://slack.com/" target="_blank">Slack</a>?
+                        </li>
+                    </ul>
+
+                    Then why not join this Slack notification, it will send Product Hunts to a Slack channel of your picking.
+                </p>
+                <h3>
+                    Getting Started
+                </h3>
+                <p>
+                    <ol>
+                        <li>
+                            Go to your channel on Slack.
+                        </li>
+                        <li>
+                            Click on your channel name, a dropdown will appear, click on "Add a service integration"
+                        </li>
+                        <li>
+                            Scroll down and look for "Incoming Webhooks", then click on the "Add" button.
+                        </li>
+                        <li>
+                            Then click on "Add Incoming WebHooks Integration"
+                        </li>
+                        <li>
+                            Copy the URL under "Webhook URL".
+                        </li>
+                        <li>
+                            Paste the "Webhook URL" into the textbox below, and soon you will be getting notifications.
+                        </li>
+                    </ol>
+                </p>
+
+                <p>
+                    NOTE: This is not part of <a href="https://www.producthunt.com" target="_blank">Product Hunt</a> or <a href="https://www.slack.com" target="_blank">Slack</a>.
+                </p>
+
+                @using (Html.BeginForm("", "", FormMethod.Post, new { role = "form", id="webHookForm", name="webHookForm" }))
+                {
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="form-group">
+                                @Html.TextBoxFor(t => t.WebHookUrl, new { @class = "form-control", placeholder = "Enter Slack Webhook URL" })
+                                @Html.ValidationMessageFor(v => v.WebHookUrl)
+                            </div>
+                        </div>
+
+                        <div class="col-md-12">
+                            <button type="button" name="addWebHook" class="btn btn-success">
+                                Add
+                            </button>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts
+{
+    <script src="~/Scripts/pages/Home.Index.js"></script>
+}

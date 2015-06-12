@@ -1,0 +1,16 @@
+C:\Users\allantang\Source\ProductHuntSlack\ProductHuntSlack\ProductHunkSlack.SlackApp\bin\Debug\ProductHunkSlack.SlackApp.exe.config
+C:\Users\allantang\Source\ProductHuntSlack\ProductHuntSlack\ProductHunkSlack.SlackApp\bin\Debug\ProductHunkSlack.SlackApp.exe
+C:\Users\allantang\Source\ProductHuntSlack\ProductHuntSlack\ProductHunkSlack.SlackApp\bin\Debug\ProductHunkSlack.SlackApp.pdb
+C:\Users\allantang\Source\ProductHuntSlack\ProductHuntSlack\ProductHunkSlack.SlackApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\allantang\Source\ProductHuntSlack\ProductHuntSlack\ProductHunkSlack.SlackApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\allantang\Source\ProductHuntSlack\ProductHuntSlack\ProductHunkSlack.SlackApp\obj\Debug\ProductHunkSlack.SlackApp.csprojResolveAssemblyReference.cache
+C:\Users\allantang\Source\ProductHuntSlack\ProductHuntSlack\ProductHunkSlack.SlackApp\obj\Debug\ProductHunkSlack.SlackApp.exe
+C:\Users\allantang\Source\ProductHuntSlack\ProductHuntSlack\ProductHunkSlack.SlackApp\obj\Debug\ProductHunkSlack.SlackApp.pdb
+C:\Users\allantang\Source\ProductHuntSlack\ProductHuntSlack\ProductHunkSlack.SlackApp\bin\Debug\Phunt.SlackLibrary.dll
+C:\Users\allantang\Source\ProductHuntSlack\ProductHuntSlack\ProductHunkSlack.SlackApp\bin\Debug\Phunt.SlackLibrary.pdb
+C:\Users\allantang\Source\ProductHuntSlack\ProductHuntSlack\ProductHunkSlack.SlackApp\bin\Debug\Phunt.Api.dll
+C:\Users\allantang\Source\ProductHuntSlack\ProductHuntSlack\ProductHunkSlack.SlackApp\bin\Debug\Phunt.Api.pdb
+C:\Users\allantang\Source\ProductHuntSlack\ProductHuntSlack\ProductHunkSlack.SlackApp\bin\Debug\EntityFramework.dll
+C:\Users\allantang\Source\ProductHuntSlack\ProductHuntSlack\ProductHunkSlack.SlackApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\allantang\Source\ProductHuntSlack\ProductHuntSlack\ProductHunkSlack.SlackApp\bin\Debug\EntityFramework.xml
+C:\Users\allantang\Source\ProductHuntSlack\ProductHuntSlack\ProductHunkSlack.SlackApp\bin\Debug\EntityFramework.SqlServer.xml

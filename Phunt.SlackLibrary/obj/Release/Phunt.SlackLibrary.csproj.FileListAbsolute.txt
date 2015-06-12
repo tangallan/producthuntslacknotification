@@ -1,0 +1,6 @@
+C:\Users\allantang\Source\ProductHuntSlack\ProductHuntSlack\Phunt.SlackLibrary\bin\Release\Phunt.SlackLibrary.dll
+C:\Users\allantang\Source\ProductHuntSlack\ProductHuntSlack\Phunt.SlackLibrary\bin\Release\Phunt.SlackLibrary.pdb
+C:\Users\allantang\Source\ProductHuntSlack\ProductHuntSlack\Phunt.SlackLibrary\bin\Release\Newtonsoft.Json.dll
+C:\Users\allantang\Source\ProductHuntSlack\ProductHuntSlack\Phunt.SlackLibrary\bin\Release\Newtonsoft.Json.xml
+C:\Users\allantang\Source\ProductHuntSlack\ProductHuntSlack\Phunt.SlackLibrary\obj\Release\Phunt.SlackLibrary.dll
+C:\Users\allantang\Source\ProductHuntSlack\ProductHuntSlack\Phunt.SlackLibrary\obj\Release\Phunt.SlackLibrary.pdb

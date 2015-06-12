@@ -1,0 +1,7 @@
+C:\Users\allantang\Source\ProductHuntSlack\ProductHuntSlack\Phunt.Api\bin\Debug\Phunt.Api.dll
+C:\Users\allantang\Source\ProductHuntSlack\ProductHuntSlack\Phunt.Api\bin\Debug\Phunt.Api.pdb
+C:\Users\allantang\Source\ProductHuntSlack\ProductHuntSlack\Phunt.Api\bin\Debug\Newtonsoft.Json.dll
+C:\Users\allantang\Source\ProductHuntSlack\ProductHuntSlack\Phunt.Api\bin\Debug\Newtonsoft.Json.xml
+C:\Users\allantang\Source\ProductHuntSlack\ProductHuntSlack\Phunt.Api\obj\Debug\Phunt.Api.csprojResolveAssemblyReference.cache
+C:\Users\allantang\Source\ProductHuntSlack\ProductHuntSlack\Phunt.Api\obj\Debug\Phunt.Api.dll
+C:\Users\allantang\Source\ProductHuntSlack\ProductHuntSlack\Phunt.Api\obj\Debug\Phunt.Api.pdb

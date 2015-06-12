@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="PhuntSlackFeedModelStoreContainer" CdmEntityContainer="PhuntSlackFeedEntities">
+    <EntitySetMapping Name="ProduntHuntWebHooks">
+      <EntityTypeMapping TypeName="PhuntSlackFeedModel.ProduntHuntWebHook">
+        <MappingFragment StoreEntitySet="ProduntHuntWebHook">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="SlackWebHook" ColumnName="SlackWebHook" />
+          <ScalarProperty Name="SentDate" ColumnName="SentDate" />
+          <ScalarProperty Name="TotalProductHuntPosts" ColumnName="TotalProductHuntPosts" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

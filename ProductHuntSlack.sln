@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductHuntSlack.WebApplication", "ProductHuntSlack.WebApplication\ProductHuntSlack.WebApplication.csproj", "{2360BF1B-AC64-406C-B58E-7B3AC70BE708}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductHunkSlack.SlackApp", "ProductHunkSlack.SlackApp\ProductHunkSlack.SlackApp.csproj", "{B51089C4-9219-4116-A413-584E1A5F13AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phunt.SlackLibrary", "Phunt.SlackLibrary\Phunt.SlackLibrary.csproj", "{5DC83210-4375-40E5-A501-D346C697686B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phunt.Api", "Phunt.Api\Phunt.Api.csproj", "{59D459F1-748B-4CA8-B7EE-5B410C66634B}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tangallan.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ProductHuntSlack.WebApplication\\ProductHuntSlack.WebApplication.csproj
+		SccProjectName1 = ProductHuntSlack.WebApplication
+		SccLocalPath1 = ProductHuntSlack.WebApplication
+		SccProjectUniqueName2 = ProductHunkSlack.SlackApp\\ProductHunkSlack.SlackApp.csproj
+		SccProjectName2 = ProductHunkSlack.SlackApp
+		SccLocalPath2 = ProductHunkSlack.SlackApp
+		SccProjectUniqueName3 = Phunt.SlackLibrary\\Phunt.SlackLibrary.csproj
+		SccProjectName3 = Phunt.SlackLibrary
+		SccLocalPath3 = Phunt.SlackLibrary
+		SccProjectUniqueName4 = Phunt.Api\\Phunt.Api.csproj
+		SccProjectName4 = Phunt.Api
+		SccLocalPath4 = Phunt.Api
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2360BF1B-AC64-406C-B58E-7B3AC70BE708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2360BF1B-AC64-406C-B58E-7B3AC70BE708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2360BF1B-AC64-406C-B58E-7B3AC70BE708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2360BF1B-AC64-406C-B58E-7B3AC70BE708}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B51089C4-9219-4116-A413-584E1A5F13AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B51089C4-9219-4116-A413-584E1A5F13AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B51089C4-9219-4116-A413-584E1A5F13AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B51089C4-9219-4116-A413-584E1A5F13AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DC83210-4375-40E5-A501-D346C697686B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DC83210-4375-40E5-A501-D346C697686B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DC83210-4375-40E5-A501-D346C697686B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DC83210-4375-40E5-A501-D346C697686B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59D459F1-748B-4CA8-B7EE-5B410C66634B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59D459F1-748B-4CA8-B7EE-5B410C66634B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59D459F1-748B-4CA8-B7EE-5B410C66634B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59D459F1-748B-4CA8-B7EE-5B410C66634B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
